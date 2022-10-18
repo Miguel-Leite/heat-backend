@@ -53,9 +53,11 @@ Inicializar o servidor: ``npm dev``
 - [x] Listar dados do perfil do usuário autenticado
 
 ### Routas (endpoints)
-<p>URL: 
+<p>
 
-`http://localhost:4000` </p>
+URL:  `http://localhost:4000` 
+
+</p>
 <table>
     <thead>
         <tr>
