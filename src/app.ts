@@ -34,4 +34,4 @@ app.get("/signin/callback", (request, response) => {
     return response.json(code)
 })
 
-app.listen(4000, ()=> console.log(`\u{200D}\u{1F680} Server is running on PORT 4000`))
+export { serverHttp, io }
