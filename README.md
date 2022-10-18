@@ -8,7 +8,9 @@
 
 <p>Depois de fazeres o clone do repositório na sua máquina, acessa a pasta do projecto no seu terminal e roda o seguinte comando: 
 <br />
+<br />
 <b>Usando YARN: </b>
+<br />
 <br />
 
 Instalar os pacotes: ``yarn install`` <br />
@@ -16,6 +18,7 @@ Inicializar o servidor: ``yarn dev``
 
 <br />
 <b>Usando NPM</b>
+<br />
 <br />
 
 Instalar os pacotes: ``npm install`` <br />
