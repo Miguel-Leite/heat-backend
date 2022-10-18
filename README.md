@@ -1,7 +1,7 @@
 # DOWhile
 
 <p>
-É uma aplicação onde usuário pode varias mensagens, compartilhando as suas espetativas sobre o DOWhile o que ele está apredendo ao longo da sua carreira como DEV e desse jeito vai colocando as suas mensagens, nesta mesma plataforma que é a DOWhile.
+É uma aplicação onde usuário pode enviar varias mensagens, compartilhando as suas espetativas sobre o DOWhile o que ele está apredendo ao longo da sua carreira como DEV e desse jeito vai colocando as suas mensagens, nesta mesma plataforma que é a DOWhile.
 </p>
 
 ### Como rodar na sua máquina?
