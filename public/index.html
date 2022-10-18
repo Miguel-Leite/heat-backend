@@ -13,7 +13,10 @@
     <script>
         const socket = io("localhost:4000")
 
-        socket.on("new_message", data => console.log(data ))
+        socket.on("new_message", (data) => {
+            console.log('oi')
+            console.log(data)
+        });
     </script>
 </body>
 </html>
