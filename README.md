@@ -46,11 +46,11 @@ Inicializar o servidor: ``npm dev``
 
 ### Funcionalidades da aplicação:
 
-[x] Autenticação com github
-[x] Registro de usuário
-[x] Registro de mensagem
-[x] Listar as 3 ultimas mensagens
-[x] Listar dados do perfil do usuário autenticado
+- [x] Autenticação com github
+- [x] Registro de usuário
+- [x] Registro de mensagem
+- [x] Listar as 3 ultimas mensagens
+- [x] Listar dados do perfil do usuário autenticado
 
 ### Routas (endpoints)
 <p>URL: 
